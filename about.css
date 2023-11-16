@@ -309,7 +309,7 @@ padding: 0 15px;
 @media (max-width: 700px)
 {
 .footer{
-	height: 125vh;
+	height: 155vh;
 }
 
 
@@ -370,8 +370,8 @@ header{
 		margin-right: 5px;
 	}
 	.card img{
-		width: 150pxpx;
-		height: 25vh;
+		width: 175pxpx;
+		height: 45vh;
 		position: center;
 		margin-top: 55px;
 		margin-left: 20px;
