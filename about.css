@@ -443,10 +443,14 @@ header{
  	margin-top: 175px;
  	font-size: 13px;
  }
-		
+
+	main h3{
+	color: #002828;
+	margin-top: 5px;
+	font-size: 30px;
 		
 	}
-
+}
 	.navlist.open {
 		right: 0;
 	}
